@@ -1,0 +1,62 @@
+---
+title: "Resume"
+---
+
+# Professional Experience
+
+## Education
+
+**MASTER OF BUSINESS ADMINISTRATION – BUSINESS ANALYTICS**
+University Canada West, Vancouver, BC | 2026
+
+Coursework: Machine Learning Tools, Digital Transformation, Predictive Analysis & Application of AI in Business.
+
+**Bachelor of Computer Science**
+Osmania University, Hyderabad, India | 2021
+
+Coursework: C, Java, Python, SQL Programming, and Data Structures
+
+## Work Experience
+
+### Data Analyst
+**Cognizant Information Technology Company**, Hyderabad, India | 09/2023 – 11/2024
+
+• Analysed 500K+ structured records (transactional and customer data) using SQL and Python, along with unstructured feedback data (support tickets and survey responses) to identify customer churn patterns and operational gaps.
+
+• Performed data cleaning and preprocessing on datasets with 10–15% missing or inconsistent values, improving reporting accuracy by 25% through validation rules and transformation scripts.
+
+• Built interactive dashboards in Power BI/Tableau to monitor KPIs such as revenue growth, SLA compliance, customer retention rate, and ticket resolution time, enabling leadership to track performance in real time.
+
+• Applied statistical analysis and predictive modelling (regression, trend forecasting) to identify seasonal sales trends and predict demand fluctuations, improving quarterly forecasting accuracy by 20%.
+
+• Collaborated with business stakeholders across operations and finance teams to gather reporting requirements and translated them into automated SQL queries and Python scripts, reducing manual reporting effort by 30%.
+
+• Implemented data validation checks and quality control processes, reducing duplicate records by 18% and increasing overall dataset reliability for decision-making.
+
+### Backend Team Member
+**Texas Review**, Hyderabad, India | 01/2022-07/2023
+
+• Managed and maintained backend databases handling 200+ student profiles per month for college admissions and visa applications, ensuring 100% data accuracy and compliance.
+
+• Verified and processed 150+ client documents monthly (academic transcripts, financial statements, visa paperwork), reducing application errors by 30%.
+
+• Utilised CRM systems to update and edit 300+ college listings, track student application status, and maintain structured records for streamlined processing.
+
+• Generated detailed monthly performance reports (application volume, approval rates, pending cases) and presented insights to the Manager and Founder to support business decisions.
+
+• Coordinated with cross-functional teams to resolve system and documentation issues within strict deadlines, maintaining a 95% on-time application submission rate.
+
+### Cashier Associate
+**Popina Canteen**, Vancouver, BC | 03/2025 – Present
+
+• Managed daily cash transactions, processed card and digital payments, and handled an average of 150–250 customer transactions per shift with high accuracy.
+
+• Maintained cash register balance at the end of shifts, ensuring 100% reconciliation between physical cash and system records.
+
+• Provided prompt customer service by addressing billing inquiries, resolving payment discrepancies, and ensuring a smooth checkout experience.
+
+• Assisted in inventory tracking and restocking of fast-moving items, supporting daily operations.
+
+## Download Resume
+
+[Download Resume](Neha%20Business%20Analyst%20pdf.pdf)

@@ -1,0 +1,16 @@
+---
+title: "MBA Projects"
+---
+
+
+## Real Estate Market Forecasting – North Vancouver Detached Homes, Group Project 2025
+
+• As a Team member, conducted a time-series forecasting project analysing 7 years (2019–2025) of North Vancouver detached housing market data using Python and Scikit-learn. Cleaned and transformed unstructured data, engineered lag and seasonal features, and built Gradient Boosting models to predict median sale prices and market competitiveness.
+
+• Achieved 1.51% forecasting error for November 2025 median price, outperforming a naïve benchmark by 76%. Provided data-driven strategic recommendations for buyers, sellers, investors, and financial institutions based on a 12-month market outlook
+
+## Customer Retention Analytics | Classification Modelling Project, Group Project 2025
+
+• As a Team member, developed an end-to-end machine learning pipeline to predict telecom customer churn using a dataset of 6,000 customers and 21 variables. Performed data preprocessing, feature encoding, scaling, and class imbalance handling (SMOTE, class weights), and built Logistic Regression and Neural Network models for comparison.
+
+• Achieved 63% churn recall using a Balanced Logistic Regression model, identifying 119 of 187 churners and outperforming neural network approaches. Generated actionable business insights by identifying key churn drivers such as high monthly charges, electronic check payments, and month-to-month contracts, and proposed data-driven retention strategies.

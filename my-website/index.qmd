@@ -1,0 +1,25 @@
+---
+title: "Home"
+---
+
+![](images/Neha.jpeg){width=200px}
+# Welcome to My MBA Portfolio
+
+Hello, I am **Neha B**, an MBA student passionate about business strategy, supply chain management, and the application of artificial intelligence in business decision making.
+
+## Career Interests
+
+- Strategic Management
+- Supply Chain & Global Trade
+- AI in Business
+- Business Analytics
+
+## My Mission
+
+To leverage data-driven insights and leadership skills to help organizations solve complex business challenges.
+
+## Quick Links
+
+[View My Projects](projects.qmd)
+
+[Download Resume](resume.pdf)

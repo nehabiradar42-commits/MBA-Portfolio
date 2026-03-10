@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Neha B | MBA Portfolio"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+      - href: projects.qmd
+        text: MBA Projects
+      - href: skills.qmd
+        text: Skills
+      - href: leadership.qmd
+        text: Leadership
+      - href: resume.qmd
+        text: Resume
+      - href: contact.qmd
+        text: Contact
+
+page-footer:
+  center: "© 2026 Neha B | MBA Portfolio"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true

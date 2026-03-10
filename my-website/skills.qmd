@@ -1,0 +1,27 @@
+---
+title: "Skills & Certifications"
+---
+
+
+
+## CORE SKILLS & TRANSFERRABLE COMPETENCIES
+
+• **SQL & Data Querying**: Wrote complex joins, CTEs, and aggregation queries to analyse 500K+ transactional records and automate monthly KPI reporting.
+
+• **Python for Data Analysis**: Used Pandas and NumPy for large-scale data cleaning and transformation; applied Matplotlib for trend visualisation and Scikit-learn for regression and classification modelling.
+
+• **Data Cleaning & Validation**: Improved reporting accuracy by 20%+ through handling missing values, duplicates, and inconsistent formats with validation checks and preprocessing techniques.
+
+• **Predictive Analytics & Machine Learning**: Built and evaluated models (Logistic Regression, Decision Trees), achieving 75–80% accuracy for churn prediction and sales forecasting.
+
+• **Business Intelligence & Dashboarding**: Developed Power BI/Tableau dashboards tracking revenue growth, SLA compliance, and retention metrics for leadership decision-making.
+
+• **Advanced Excel Analytics**: Designed dynamic dashboards using Pivot Tables, XLOOKUP, INDEX-MATCH, and automated reporting templates.
+
+## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+
+• Data Analysis with Python - IBM | 2025
+• Networking Skills | 2025
+• Certified Digital Marketing Professional (CDMP) - DMI | Digital Marketing Institute | 2025
+• Basic Court Security Certification (CSC1) | Govt of BC | 2023
+• Data Science & Machine Learning Certification | 2025
